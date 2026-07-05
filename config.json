@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "sv1.vbproject.org",
+        "user": "admin",
+        "password": "@vbproject2026",
+        "name": "avatar",
+        "port": 3306
+    },
+    "server": {
+        "port": 19128
+    }
+}
