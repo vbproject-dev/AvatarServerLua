@@ -1,8 +1,8 @@
 {
     "database": {
-        "host": "sv1.vbproject.org",
-        "user": "admin",
-        "password": "@vbproject2026",
+        "host": "localhost",
+        "user": "root",
+        "password": "",
         "name": "avatar",
         "port": 3306
     },
